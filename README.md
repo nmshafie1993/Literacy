@@ -1,6 +1,6 @@
 # Project Goal
 A data-driven investigation on the importance of literacy and its impact on our actions, way of thinking, and lifestyle. <br>
-The Notebook of this project include Data Wrangling, Data Visulization, and Exploratory Data Analysis on the world survey data. (the data is not available in this github) <br>
+The Notebook of this project include Data Wrangling, Data Visualization, and Exploratory Data Analysis on the world survey data. (the data is not available in this Github) <br>
 
 #### Data Source Citation: 
 Inglehart, R., C. Haerpfer, A. Moreno, C. Welzel, K. Kizilova, J. Diez-Medrano, M. Lagos, P. Norris, E. Ponarin & B. Puranen et al. (eds.). 2014. World Values Survey: Round Six - Country-Pooled Datafile Version: www.worldvaluessurvey.org/WVSDocumentationWV6.jsp. Madrid: JD Systems Institute.
